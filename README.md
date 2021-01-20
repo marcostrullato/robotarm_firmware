@@ -1,3 +1,6 @@
+# Credits
+Thanks to https://github.com/inaciose/rosarm_firmware for the starting point!
+
 # rosarm_firmware
 ROS generic robotic arm firmware for mcro controllers with rosserial-arduino
 
